@@ -1,0 +1,194 @@
+# Proyectos
+
+A lo largo de mi trayectoria profesional he participado en proyectos relacionados con Ingeniería de Datos, Business Intelligence, desarrollo de software y automatización de procesos. Cada uno de ellos ha representado una oportunidad para aplicar buenas prácticas de desarrollo, modelado de datos, integración de información y análisis, siempre con el objetivo de generar soluciones que aporten valor a las organizaciones.
+
+En esta sección presento algunos de los proyectos más representativos de mi experiencia profesional y académica. Cada proyecto describe el problema identificado, la solución implementada, las tecnologías utilizadas, la arquitectura propuesta y los principales resultados obtenidos.
+
+---
+
+# Sistema Web para la Gestión de Producción Acuícola
+
+**Estado:** En desarrollo
+
+### Descripción
+
+Diseño y desarrollo de una aplicación web orientada a digitalizar la gestión integral de la producción camaronera, reemplazando procesos manuales realizados mediante hojas de cálculo.
+
+### Problema
+
+El registro de información en archivos Excel dificultaba el seguimiento de los ciclos de producción, generaba duplicidad de datos y limitaba el análisis histórico de la información.
+
+### Solución
+
+Diseño de una plataforma web que centraliza la administración de piscinas, ciclos de cultivo, alimentación, biometrías, mortalidad, cosechas y producción, facilitando el control operativo y la toma de decisiones.
+
+### Tecnologías
+
+* Python
+* Django
+* SQLite (fase inicial)
+* PostgreSQL (implementación futura)
+* HTML
+* CSS
+* JavaScript
+
+### Principales funcionalidades
+
+* Gestión de usuarios y permisos.
+* Administración de piscinas y ciclos.
+* Registro de biometrías.
+* Control de alimentación.
+* Registro de mortalidad.
+* Reportes operativos.
+* Indicadores productivos.
+
+---
+
+# Automatización de Procesos ETL para Integración de Datos
+
+**Estado:** Implementado
+
+### Descripción
+
+Diseño de procesos ETL orientados a integrar información proveniente de diferentes fuentes para garantizar la disponibilidad y calidad de los datos utilizados en reportería y análisis.
+
+### Tecnologías
+
+* Python
+* SQL
+* PySpark
+
+### Actividades realizadas
+
+* Extracción de información desde múltiples orígenes.
+* Limpieza y validación de datos.
+* Transformación de estructuras.
+* Automatización de procesos repetitivos.
+* Optimización de tiempos de procesamiento.
+
+### Resultados
+
+* Mayor disponibilidad de la información.
+* Disminución de errores manuales.
+* Procesos de actualización automatizados.
+* Mejor calidad de datos para análisis.
+
+---
+
+# Plataforma de Business Intelligence
+
+**Estado:** Implementado
+
+### Descripción
+
+Desarrollo de dashboards interactivos para el análisis de indicadores estratégicos mediante Power BI.
+
+### Tecnologías
+
+* Power BI
+* SQL
+* Azure Databricks
+
+### Funcionalidades
+
+* KPIs.
+* Reportes ejecutivos.
+* Indicadores dinámicos.
+* Visualización interactiva.
+* Análisis histórico.
+
+### Resultados
+
+* Información centralizada.
+* Reducción del tiempo de generación de reportes.
+* Mejor soporte para la toma de decisiones.
+
+---
+
+# Procesamiento de Datos en Azure Databricks
+
+**Estado:** Implementado
+
+### Descripción
+
+Participación en proyectos de análisis y calidad de datos utilizando Azure Databricks para el procesamiento y transformación de grandes volúmenes de información.
+
+### Tecnologías
+
+* Azure Databricks
+* SQL
+* Python
+
+### Actividades
+
+* Calidad de datos.
+* Transformación.
+* Validaciones.
+* Integración de fuentes.
+* Optimización de procesos analíticos.
+
+---
+
+# Sistema de Soporte para Producción Porcina
+
+**Estado:** Finalizado
+
+### Descripción
+
+Desarrollo de un sistema de apoyo a la toma de decisiones para una granja porcina mediante técnicas de minería de datos e inteligencia de negocios.
+
+### Tecnologías
+
+* HTML
+* CSS
+* R
+
+### Resultados
+
+* Centralización de información productiva.
+* Análisis de indicadores.
+* Soporte para decisiones operativas.
+
+---
+
+# Sistema Web para Gestión Académica
+
+**Estado:** Finalizado
+
+### Descripción
+
+Desarrollo de una aplicación web para la administración de calificaciones, comportamiento y aprovechamiento académico.
+
+### Tecnologías
+
+* PHP
+* MySQL
+* HTML
+* CSS
+* JavaScript
+
+### Funcionalidades
+
+* Registro de estudiantes.
+* Gestión de notas.
+* Reportes académicos.
+* Administración de usuarios.
+
+---
+
+# Casos Técnicos y Proyectos Personales
+
+Además de mi experiencia profesional, desarrollo proyectos personales orientados a fortalecer mis conocimientos y explorar nuevas tecnologías relacionadas con la Ingeniería de Datos.
+
+Entre ellos destacan:
+
+* Diseño de arquitecturas de datos escalables.
+* Optimización de consultas SQL.
+* Procesos ETL utilizando Python y PySpark.
+* Dashboards ejecutivos con Power BI.
+* Modelado de bases de datos relacionales.
+* Desarrollo de aplicaciones web con Django.
+* Automatización de procesos mediante Python.
+* Soluciones para almacenamiento y gestión de información empresarial.
+
+Cada uno de estos proyectos representa mi compromiso con el aprendizaje continuo y la búsqueda constante de soluciones tecnológicas que generen valor a través de los datos.
